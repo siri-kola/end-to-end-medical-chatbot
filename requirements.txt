@@ -1,0 +1,9 @@
+ctransformers==0.2.5( to load the quantized model)
+( to use langchain we use ctransformers)
+( sentence transformer library)
+sentence-transformers==2.2.2
+pincone-client(vector DB)
+langchain==0.0.225
+flask(to create frontend)
+
+
